@@ -1,0 +1,57 @@
+{
+  "data": {
+    "after_expiration": null, 
+    "allow_promotion_codes": null, 
+    "amount_subtotal": 200, 
+    "amount_total": 200, 
+    "automatic_tax": {
+      "enabled": false, 
+      "status": null
+    }, 
+    "billing_address_collection": null, 
+    "cancel_url": "https://www.linkedin.com/learning/building-great-forms-with-html-and-css", 
+    "client_reference_id": null, 
+    "consent": null, 
+    "consent_collection": null, 
+    "created": 1666409934, 
+    "currency": "usd", 
+    "customer": null, 
+    "customer_creation": "if_required", 
+    "customer_details": null, 
+    "customer_email": null, 
+    "expires_at": 1666496334, 
+    "id": "cs_test_a1XqBMk8XlfeYp7hgozcC23oaE0QvSfwT2RQwkGYZ3ooBGmeMgZRMdZ98X", 
+    "livemode": false, 
+    "locale": null, 
+    "metadata": {}, 
+    "mode": "payment", 
+    "object": "checkout.session", 
+    "payment_intent": null, 
+    "payment_link": null, 
+    "payment_method_collection": "always", 
+    "payment_method_options": {}, 
+    "payment_method_types": [
+      "card"
+    ], 
+    "payment_status": "unpaid", 
+    "phone_number_collection": {
+      "enabled": false
+    }, 
+    "recovered_from": null, 
+    "setup_intent": null, 
+    "shipping_address_collection": null, 
+    "shipping_cost": null, 
+    "shipping_details": null, 
+    "shipping_options": [], 
+    "status": "open", 
+    "submit_type": null, 
+    "subscription": null, 
+    "success_url": "https://www.linkedin.com/learning/building-great-forms-with-html-and-css", 
+    "total_details": {
+      "amount_discount": 0, 
+      "amount_shipping": 0, 
+      "amount_tax": 0
+    }, 
+    "url": "https://checkout.stripe.com/c/pay/cs_test_a1XqBMk8XlfeYp7hgozcC23oaE0QvSfwT2RQwkGYZ3ooBGmeMgZRMdZ98X#fidkdWxOYHwnPyd1blpxYHZxWjA0SXM2RjJWTFFud189cmhwNU5nYmRMQk9LMV88aWkxXEFibmlOd2BBSF09RF9vNW1jTTxUbXY8NlJdcURDV2pmMTNnNkhCUEZ2UXVdPXRqcV1XdFxnYmlONTVfMUluaUBiVCcpJ2N3amhWYHdzYHcnP3F3cGApJ2lkfGpwcVF8dWAnPyd2bGtiaWBabHFgaCcpJ2BrZGdpYFVpZGZgbWppYWB3dic%2FcXdwYHgl"
+  }
+}
